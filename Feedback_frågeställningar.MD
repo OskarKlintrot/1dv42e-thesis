@@ -4,7 +4,7 @@
 
 > Hur utformar man bäst klientbaserad verifiering av webbformulär för att uppnå hög svarsfrekvens?
 
-Frågeställningen gränsar den kanske lite väl mycket till beteendevetenskap just nu. Den kanske hade varit bättre för en student i interaktionsdesign? Dessutom är det väldigt otydligt vad för webbformulär som ska fyllas i? Är det undersökningar, recensioner eller något annat? Dessutom känns frågeställning mer som ett forskningsprojekt än en mindre studentuppsats. Vad innebär också klientbaserad verifiering? Sker ingen verifiering på servern? Är det captcha som åsyftas?
+Frågeställningen gränsar kanske lite väl mycket till beteendevetenskap just nu. Den kanske hade varit bättre för en student i interaktionsdesign? Dessutom är det väldigt otydligt vad för webbformulär som ska fyllas i? Är det undersökningar, recensioner eller något annat? Dessutom känns frågeställning mer som ett forskningsprojekt än en mindre studentuppsats. Vad innebär också klientbaserad verifiering? Sker ingen verifiering på servern? Är det captcha som åsyftas?
 
 ### Har frågeställningen en tydlig mottagargrupp?
 
@@ -16,11 +16,11 @@ Nej, återigen behöver "webbformulär" bli mer konkret. Dessutom är "klientbas
 
 ### Är frågeställningen testbar?
 
-Absolut, det kan vara knepigt att få tillräckligt med data för att kunna göra en vettig jämförelse men har man fått datan borde man kunna gå igenom den relativt enkelt.
+Absolut, det kan vara knepigt att få tillräckligt med data för att kunna göra en vettig jämförelse men har datan väl samlats in borde den gå att gå igenom relativt enkelt.
 
 ### Är frågan redan fullständigt besvarad?
 
-Ingen aning, jag tycker att en integrationsdesigner borde ha koll på detta redan?
+Ingen aning, borde inte en integrationsdesigner ha koll på detta redan?
 
 ## Mina förslag
 
@@ -30,7 +30,7 @@ Ingen aning, jag tycker att en integrationsdesigner borde ha koll på detta reda
 
 ### Förslag 2
 
-> Blir det någon skillnad i svarsfrekvens på en undersökning om man använder sig av OAuth eller en egen lösning där användaren måste skapa en ny användare? 
+> Blir det någon skillnad i svarsfrekvens på en undersökning om applikationen använder sig av OAuth eller en egen lösning där användaren måste skapa en ny användare?
 
 # Ingela Bladh
 
@@ -84,7 +84,7 @@ Absolut, den behöver bara några mindre avgränsningar för att bli ännu tydli
 
 ### Är frågeställningen testbar?
 
-Inte direkt, jag förstår inte hur man ska kunna testa den men å andra sidan behöver man kanske inte testa den heller?
+Inte direkt, den verkar svår att testa men å andra sidan behöver man kanske inte testa den heller?
 
 ### Är frågan redan fullständigt besvarad?
 
