@@ -1,6 +1,6 @@
 # Bakgrund
 
-IoT blir mer och mer populärt och spås vara uppe i 26 miljarder enheter till 2020 [1]. Både Arduino och Raspberry Pi är några av de mer populära utvecklingsplattformarna [2][3]. För att kommunicera mellan Arduino och Raspberry Pi finns flera olika sätt så som Ethernet, WiFi, SR232, SR485 men hur användarvänliga och säkra är de olika teknikerna utifrån en webbprogrammerares perspektiv?
+IoT blir mer och mer populärt och spås vara uppe i 26 miljarder enheter till 2020 [1]. Både Arduino och Raspberry Pi är några av de mer populära utvecklingsplattformarna [2, 3]. För att kommunicera mellan Arduino och Raspberry Pi finns flera olika sätt så som Ethernet, WiFi, SR232, SR485 men hur användarvänliga och säkra är de olika teknikerna utifrån en webbprogrammerares perspektiv?
 
 # Frågeställning
 
